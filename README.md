@@ -5,7 +5,6 @@
 
 A collection of concise write-ups on small things I learn day to day from the bootcamp Spartapedia. 
 
-Read more about why and how I started this at: https://hackernoon.com/today-i-learned-ok-technically-yesterday-65c64e1dcb6
 
 _1 TILs and counting..._
 
