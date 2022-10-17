@@ -9,7 +9,7 @@ A collection of concise write-ups on small things I learn day to day from the bo
 _1 TILs and counting..._
 
 ---
-### DAY I
+### Week One
 - [Prepare for Week I course](dayone/prepareforweekone.md)
 
 
