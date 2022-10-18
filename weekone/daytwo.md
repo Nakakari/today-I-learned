@@ -1,4 +1,4 @@
-# My First Experience
+# Day Two 
 
 So, today we are starting do our team project for this week. We've talked about how to manage project team eassily for four member.
 Then, we decided to using heroku to make collaboration.
