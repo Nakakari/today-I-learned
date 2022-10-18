@@ -6,7 +6,7 @@
 A collection of concise write-ups on small things I learn day to day from the bootcamp Spartapedia. 
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 ### Week One
