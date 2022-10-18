@@ -10,7 +10,8 @@ _1 TILs and counting..._
 
 ---
 ### Week One
-- [Prepare for Week I course](dayone/prepareforweekone.md)
+- [Prepare for Week I course](weekone/prepareforweekone.md)
+- [Started Working on The Team Project](weekone/daytwo.md)
 
 
 ## Contributing
