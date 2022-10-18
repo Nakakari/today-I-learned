@@ -3,7 +3,7 @@
 So, today we are starting do our team project for this week. We've talked about how to manage project team eassily for four member.
 Then, we decided to using heroku to make collaboration.
 
-![title](../Images/daytwo.png)
+![title](../Images/daytwo2.png)
 
 ```
 The picture above is my documentation during team discussion. 
