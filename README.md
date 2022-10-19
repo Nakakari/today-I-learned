@@ -6,12 +6,13 @@
 A collection of concise write-ups on small things I learn day to day from the bootcamp Spartapedia. 
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 ### Week One
 - [Prepare for Week I course](weekone/prepareforweekone.md)
 - [Started Working on The Team Project](weekone/daytwo.md)
+- [Do Team Tasks](weekone/daythree.md)
 
 
 ## Contributing
