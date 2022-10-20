@@ -1,4 +1,4 @@
-# Day Two 
+# Day Three
 
 So, today we are starting do our team project for this week. We had been adding login and some adjustment from JS to our laravel project. 
 
