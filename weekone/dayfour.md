@@ -24,6 +24,9 @@ http://damp-hollows-19441.herokuapp.com/
 And here is our code docummentations:
 https://github.com/Nakakari/myreading_list.git
 
+Also this one is our demo:
+https://youtu.be/RoTIJaT3Dy8
+
 # Reflection
 I must improve my communication skill in my team. .😥 and coding skill too.
 
