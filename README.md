@@ -13,6 +13,7 @@ _3 TILs and counting..._
 - [Prepare for Week I course](weekone/prepareforweekone.md)
 - [Started Working on The Team Project](weekone/daytwo.md)
 - [Do Team Tasks](weekone/daythree.md)
+- [Completing Team Tasks](weekone/dayfour.md)
 
 
 ## Contributing
