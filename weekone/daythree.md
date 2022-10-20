@@ -9,7 +9,7 @@ The picture above is one part of our code.
 ```
 #  Team goal today
 ```
-Starting to do our team project for this week.
+Completing CRUD features.
 ```
 # What I've Done
 ![title](../Images/sharescreen.png)
@@ -18,4 +18,4 @@ Starting to do our team project for this week.
 I must improve my communication skill in my team. .😥
 
 # The plan for tomorrow
-Must have dinner first before joining the bootamp!
+We should deploy our project!
