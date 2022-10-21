@@ -117,3 +117,11 @@ hi();
 
 console.log(b);
 ```
+
+What would be the “b” value printed on the console? 1
+
+Which “b” value would be printed from which line of console.log? Explain why.
+    It would be printed from line 1, because b in line 1 is a global variable.
+
+What would be //console.log(a); in the comment? If there’s an error, explain why and fix the error. 
+    It would be an error. Because variable 'a' isn't declare in global scope. To fix the error, we must put variable named 'a' in global position. Or we can write console.log(a) in  the scop chain.
