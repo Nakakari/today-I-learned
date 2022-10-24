@@ -1,7 +1,6 @@
 # Day Six
 So, today we are completing team task. 
 
-
 # Q1. What’s the differenece between array and array-like object in javascript. How can you change each element in an array-like object?
 ## Answer
     - The different between array and array-like object in JS can be seen below:
@@ -91,4 +90,14 @@ So, today we are completing team task.
     
 # Q5. We usually use ref to approach to DOM in react. Why do we use ref instead of document.getElementsByClassName?
 ## Answer
-    
+
+# Q6. Explain SPA and MPA.
+## Answer
+    - A single-page application (SPA) is a web-based application that uses only one web page to display the application. All clicks or data presentations do not reload the entire page, but only a few are updated from the server or from the client-side application process results. Because of the use of this technology, the web created is lighter and faster to use.
+    - A Multi-page Application (MPA) is a web application made up of a large number of pages that are completely refreshed whenever data on them changes. Any change or transfer of data to the server results in a new page being displayed in the browser. It is the polar opposite of a single page application, which has only one page and dynamically updates data without changing the page.
+
+# Q7. Why there’s an error when you move to the page like spartacodingclub.com/login instead of spartacodingclub.com after deploying to s3 bucket?
+# Answer
+
+# DIY
+[Our DIY](weektwo/diy.md)
