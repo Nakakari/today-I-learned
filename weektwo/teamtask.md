@@ -100,4 +100,4 @@ So, today we are completing team task.
 # Answer
 
 # DIY
-[Our DIY](weektwo/diy.md)
+[Our DIY](../weektwo/diy.md)
