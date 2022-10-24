@@ -90,6 +90,15 @@ So, today we are completing team task.
     
 # Q5. We usually use ref to approach to DOM in react. Why do we use ref instead of document.getElementsByClassName?
 ## Answer
+    In general, refs are preferable to documents. getElementById, because it is more consistent with the rest of the react code.
+
+    Every component class in react can have multiple component instances.
+
+    Using id is risky because react does not prevent you from having multiple forms on a single page, and the DOM then contains multiple inputs with the same ID. That is not permitted.
+
+    Another advantage of using refs is that they are only accessible in the context in which they are defined. If we need to access information outside of this context, we must use props and state (and possibly stores).
+    And this is a benefit because there is less/no chance of breaking our unidirectional data flow, which would make our code more difficult to manage.
+
 
 # Q6. Explain SPA and MPA.
 ## Answer
