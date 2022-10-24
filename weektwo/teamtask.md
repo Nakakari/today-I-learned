@@ -85,6 +85,7 @@ So, today we are completing team task.
 # Q3. What is two-way binding? Explain What is two-way binding? Explain how the re-rendering is done when using two-way binding. (Assume that there are parent component A and child component B.). (Assume that there are parent component A and child component B.)
 ## Answer
 ![title](../Images/weektwo/5.jpeg)
+
     In one-way binding, the flow is one-directional. This means that the flow of code is from the ts file to the Html file.
 
     In two-way binding, the flow is two-directional.  This means that the flow of code is from the ts file to the Html file and from the Html file to the ts file.
