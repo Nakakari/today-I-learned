@@ -84,6 +84,10 @@ So, today we are completing team task.
 
 # Q3. What is two-way binding? Explain What is two-way binding? Explain how the re-rendering is done when using two-way binding. (Assume that there are parent component A and child component B.). (Assume that there are parent component A and child component B.)
 ## Answer
+![title](../Images/weektwo/5.jpeg)
+    In one-way binding, the flow is one-directional. This means that the flow of code is from the ts file to the Html file.
+
+    In two-way binding, the flow is two-directional.  This means that the flow of code is from the ts file to the Html file and from the Html file to the ts file.
 
 # Q4. Event listener should be removed when it’s called out. When component is disappered(=unmount) from the screen in class component, event listener is removed in componentWillUnmount. Then, how do you remove event listener in functional component where you can’t use the lifecycle method?
 ## Answer
