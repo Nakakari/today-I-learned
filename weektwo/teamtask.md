@@ -82,6 +82,14 @@ So, today we are completing team task.
     </div>
     }
 
+![title](../Images/weektwo/2.png)
+    **Mounting methods**
+    A component mounts when it is created and inserted for the first time in the DOM.
+    **Updation**
+    The updating lifecycle methods give us control over when and how this updating should take place.
+    **Unmounting**
+    In many cases components need to be removed from the DOM, this happens because of changes to the state.
+
 # Q3. What is two-way binding? Explain What is two-way binding? Explain how the re-rendering is done when using two-way binding. (Assume that there are parent component A and child component B.). (Assume that there are parent component A and child component B.)
 ## Answer
 ![title](../Images/weektwo/5.jpeg)
