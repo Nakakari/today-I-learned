@@ -6,7 +6,7 @@
 A collection of concise write-ups on small things I learn day to day from the bootcamp Spartapedia. 
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 ### Week One
@@ -18,6 +18,7 @@ _6 TILs and counting..._
 ### Week Two
 - [Javascript and Its Unique Qualities](weektwo/startingassignment.md)
 - [Team Task](weektwo/teamtask.md)
+- [Completing Team Task](weektwo/day7.md)
 
 ## Contributing
 
