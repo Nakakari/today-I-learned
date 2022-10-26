@@ -120,6 +120,16 @@ So, today we are completing team task.
 
 # Q7. Why there’s an error when you move to the page like spartacodingclub.com/login instead of spartacodingclub.com after deploying to s3 bucket?
 # Answer
+    If you're trying to [host a static website using Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html) (spartacodingclu.com), but you're getting an **Access Denied** error, check the following requirements:
+
+    - Objects in the bucket must be publicly accessible.
+    - S3 bucket policy must allow access to the **s3:GetObect** action.
+    - The AWS account that owns the bucket must also own the object.
+    - Objects can't be encrypted by AWS Key Management Service (AWS KMS).
+    - Objects that are requested must exist in the S3 bucket.
+    - Amazon S3 Block Public Access must be disabled on the bucket and account level.The S3 bucket is correctly configured for website hosting.
+
+    Because the page [http://spartacodingclub.com/login](http://spartacodingclub.com/loging) not publicly accessible it can be caused an error. Beside that the acces to the s3:GetObject not allowed, or objects can’t be encrypted
 
 # DIY
 [Our DIY](../weektwo/diy.md)
