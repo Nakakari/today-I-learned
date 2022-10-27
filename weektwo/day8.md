@@ -8,4 +8,4 @@ So far, I've learned more about array-like object. First I was confuse about tha
 
     All can be seen in:
    
-[![forthebadge]( https://github.com/Nakakari/personal-task.git)]
+[( https://github.com/Nakakari/personal-task.git)]

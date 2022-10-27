@@ -20,6 +20,7 @@ _8 TILs and counting..._
 - [Team Task](weektwo/teamtask.md)
 - [Completing Team Task](weektwo/day7.md)
 - [Starting Do Personal Task](weektwo/day8.md)
+- [Completing Personal Task](weektwo/day9.md)
 
 ## Contributing
 
