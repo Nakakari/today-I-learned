@@ -6,7 +6,7 @@
 A collection of concise write-ups on small things I learn day to day from the bootcamp Spartapedia. 
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 ### Week One
@@ -21,6 +21,9 @@ _9 TILs and counting..._
 - [Completing Team Task](weektwo/day7.md)
 - [Starting Do Personal Task](weektwo/day8.md)
 - [Completing Personal Task](weektwo/day9.md)
+
+### Week Three
+- [Opening React Mastery](weekthree/day10.md)
 
 ## Contributing
 
