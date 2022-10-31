@@ -6,7 +6,7 @@
 A collection of concise write-ups on small things I learn day to day from the bootcamp Spartapedia. 
 
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 ### Week One
@@ -24,6 +24,7 @@ _10 TILs and counting..._
 
 ### Week Three
 - [Opening React Mastery](weekthree/day10.md)
+- [Team Task: I Think the whole topics is talk about Redux](weekthree/day11.md)
 
 ## Contributing
 
