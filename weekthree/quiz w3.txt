@@ -1,0 +1,58 @@
+1. This is because we have not utilized the addTodo function which is a redux, where the function is useful for adding new components that the user inputs to the todo that has utilized (...todo,) or spread.
+
+Code:
+- add this code for at the line 26 of Form.jsx
+	dispatch(addTodo({ ...todo, id }))
+- then, initialize disatch by leveraging useDispatch, add this code at line 9 Form.jsx
+	const dispatch = useDispatch();
+	
+2. This is because we haven't saved any additional data into the useState that we initialized earlier. Or we haven't put the new data into the todos array yet. We need to make use of the operator's spread to add todos to the state.
+
+So, we need to add this code at line 63 redux/modules/todos.js:
+...state.todos
+Then it will look like this:
+
+ case ADD_TODO:
+      return {
+        ...state,
+        todos: [...state.todos, action.payload],
+      };
+
+3. First we need to look at the code on the delete button. The code is located on the file: 
+	features/todos/components/List.jsx
+	
+	If we browse in the file there is an eventhandling called onDeletetodo which has a parameter todo.id.
+	In the onDeleteTodo function, it utilizes a react redux hook called deleteTodo. If we dig again, it will lead to a redux in the file:
+	redux/modules/todos.js
+	
+	There is an initialization of deleteTodo. However, an action named DELETE_TODO has not been initialized.
+	
+	So, to solve this problem, we have to create a new case named DELETE_TODO. As the following code goes: *remember we put it inside the Switch
+	case DELETE_TODO:
+      return {
+        ...state,
+        todos: state.todos.filter((todo) => todo.id !== action.payload),
+      };
+	 
+	In that code snippet, we need to filter todos by todo.id. The code will return todos other than the one with the selected id earlier
+
+4. This is because we haven't called a function that can return the details of that data based on the selected id. We need to leverage a global state on the redux.
+	Add the following code inside that Details function:
+	useEffect(() => {
+    dispatch(getTodoByID(id));
+	}, [dispatch, id]);
+	
+	the code above is useEffect with a dependency parameter, meaning that if its id changes then call the useEffect function once again. meaning that useEffect here works as componentDidMount and componentDidUpdate (but conditionally) which only update if there are changes to dependencies.
+	
+	
+5. This is because the link that refers to the detail page still refers to the index value of the array called todos. In fact, we don't use the index array to initialize the unique values of each object in the array. Therefore, we need to replace it with the following code snippet:
+	Before: to={`/${index}`}
+	After: to={`/${todo.id}`}
+	
+	And voila, the detail page of the cards marked done will refer to the correct data based on the selected id.
+
+6. Because in the previous code in List.jsx to dafatr if isDone is true, the button for the cancel does not yet have a parameter. Therefore we need to add a parameter to the onToggleStatusTodo function which is the selected id.
+Before:  onClick={onToggleStatusTodo}
+After: onClick={() => onToggleStatusTodo(todo.id)}
+
+The code will then update the isDone value as opposed to the previously selected isDone value.
