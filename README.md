@@ -6,7 +6,7 @@
 A collection of concise write-ups on small things I learn day to day from the bootcamp Spartapedia. 
 
 
-_14 TILs and counting..._
+_15 TILs and counting..._
 
 ---
 ### Week One
@@ -28,6 +28,9 @@ _14 TILs and counting..._
 - [[LXI - SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/11/01 TIL/Week 3](weekthree/day12.md)
 - [[LXI - SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/11/02 TIL/Week 3](weekthree/day13.md)
 - [[LXI - SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/11/03 TIL/Week 3](weekthree/day14.md)
+
+### Week Four
+- [[LXI - SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/11/04 TIL/Week 4](weekfour/day15.md)
 
 ## Contributing
 
