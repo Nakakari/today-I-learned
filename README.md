@@ -43,6 +43,7 @@ _22 TILs and counting..._
 
 ### Week Six
 - [[LXI - SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/11/18 TIL/Week 4](weeksix/day23.md)
+- [[LXI - SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/11/21 TIL/Week 4](weeksix/day24.md)
 
 ## Contributing
 
