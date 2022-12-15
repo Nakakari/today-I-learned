@@ -54,6 +54,9 @@ _27 TILs and counting..._
 ### Week Eight
 - [[LXI - SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/12/06 TIL/Week 8](week8/day31.md)
 
+### Week Nine
+- [[LXI - SpartaCodingClub Full-Stack Bootcamp in Indonesia] 2022/12/16 TIL/Week 9](week9/day32.md)
+
 ## Contributing
 
 The best way you can contribute is to support the idea of keeping track of things you learned. Just create a public repo and start writing and sharing notes. This is way better than keeping them to yourself.
