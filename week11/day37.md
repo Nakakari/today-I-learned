@@ -1,0 +1,1 @@
+## Today I tried to join ZEP during the focuse time, but caused by my connection issue so I cannot join at the moment.
